@@ -1,0 +1,29 @@
+nav {
+    background-color: darkblue;
+    padding: 10px;
+}
+
+nav a{
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+p {
+    /*padding give  spaces between border and the context inside it.*/
+    padding: 10px;
+    /* to make your border visible, your declaradion should have value of width, style(solid/dotted/double/dashed) and color */
+    /* margin gives spaces betwen boxes adjacent to each other*/
+
+}
